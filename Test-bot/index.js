@@ -6,9 +6,9 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if (msg.content === '야') {
-    msg.reply('호!');
+  if (msg.content === '야') {  // 사용자가 입력할 massage
+    msg.reply('호!');  // 봇이 출력할 massage
   }
 });
 
-client.login('token');
+client.login('token');  // token에 자신의 토큰 넣기
