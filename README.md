@@ -2,6 +2,8 @@
 
 ## YouTube : [웹개발 얼쑤 ALLSSU](https://www.youtube.com/channel/UCZtMUSjSh9CLeIgNKvDdwBw)
 
+디스코드 봇 - discord.js로 디코봇 만들기 : [https://www.youtube.com/watch?v=jATRl7_DD4g](https://www.youtube.com/watch?v=jATRl7_DD4g)
+
 ### [My Tistory Blog](https://java-coding.tistory.com/6)
 
 ---
