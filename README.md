@@ -45,7 +45,7 @@ client.login('token');
 
 token 자리에는 discord developer에서 받았던 각자의 Token을 복사해서 넣어주면 된다.
 
-![토큰넣기](https://user-images.githubusercontent.com/51290739/116794725-30b31f00-ab0a-11eb-968d-806150b4ebf1.jpg)
+![message](https://user-images.githubusercontent.com/51290739/116808231-a94dc600-ab72-11eb-9973-49a257b232c5.jpg)
 
 ##### ※ Token은 자신만 알고 있어야 한다. 아무한테나 알려주면 우리가 만든 봇이 해킹될 수 있다.
 
