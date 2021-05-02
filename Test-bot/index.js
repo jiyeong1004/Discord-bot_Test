@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if (msg.content === '야') {  // 사용자가 입력할 massage
-    msg.reply('호!');  // 봇이 출력할 massage
+  if (msg.content === '야') {  // 사용자가 입력할 message
+    msg.reply('호!');  // 봇이 출력할 message
   }
 });
 
