@@ -4,7 +4,7 @@
 
 디스코드 봇 - discord.js로 디코봇 만들기 : [https://www.youtube.com/watch?v=jATRl7_DD4g](https://www.youtube.com/watch?v=jATRl7_DD4g)
 
-### [My Tistory Blog](https://java-coding.tistory.com/6)
+<a href="https://java-coding.tistory.com/6"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-badge"></a>
 
 ---
 
