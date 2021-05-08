@@ -2,7 +2,11 @@
 
 ## YouTube : [웹개발 얼쑤 ALLSSU](https://www.youtube.com/channel/UCZtMUSjSh9CLeIgNKvDdwBw)
 
-디스코드 봇 - discord.js로 디코봇 만들기 : [https://www.youtube.com/watch?v=jATRl7_DD4g](https://www.youtube.com/watch?v=jATRl7_DD4g)
+### 디스코드 봇 - discord.js로 디코봇 만들기
+
+<a href="https://www.youtube.com/watch?v=jATRl7_DD4g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+---
 
 <a href="https://java-coding.tistory.com/6"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge"></a>
 
