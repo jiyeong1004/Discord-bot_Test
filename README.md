@@ -8,6 +8,12 @@
 
 ---
 
+### Programming Languages
+<a href="" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a href="" target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
+
+---
+
 <a href="https://java-coding.tistory.com/6"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge"></a>
 
 <a href="https://github.com/jiyeong1004/Discord-bot_Test/files/6446421/Discord-Bot_.pdf"><img src="https://img.shields.io/badge/PDF-FF36B5?style=for-the-badge"></a>
