@@ -18,6 +18,8 @@
 
 <a href="https://github.com/jiyeong1004/Discord-bot_Test/files/6446421/Discord-Bot_.pdf"><img src="https://img.shields.io/badge/PDF-FF36B5?style=for-the-badge"></a>
 
+<a href="https://equal-viscose-066.notion.site/Discord-Bot-6450001dcba249d597832ec8594a57df"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge"></a>
+
 ---
 
 ### < Discord-Bot을 만들기 전에 준비해야 할 것들 >
